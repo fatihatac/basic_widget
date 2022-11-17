@@ -1,4 +1,4 @@
-flutter ile geliştirdiğim basit bir local data yönetimi uygulaması
+flutter ile geliştirdiğim önceden tanımlanan liste üzerinden data yönetimi uygulaması
 öğrenci takip sistemi olarak geliştirilen uygulamada add, update, delete operasyonları yapılıyor.
 ![Screenshot_20221026_200316](https://user-images.githubusercontent.com/102164355/198258714-a94cf271-4d75-4dba-a5a9-22efc70688a3.png)
 ![Screenshot_20221026_200445](https://user-images.githubusercontent.com/102164355/198258757-5d1b2e7b-a701-43b3-a33d-293802761124.png)
